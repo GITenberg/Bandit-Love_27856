@@ -1,0 +1,27 @@
+_repo: Bandit-Love_27856
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Savage, Juanita
+    gutenberg_agent_id: '32966'
+    url: http://www.gutenberg.org/2009/agents/32966
+description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII;
+  Chapter XIX; Conclusion;
+gutenberg_issued: '2009-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Romance fiction'
+title: Bandit Love
+url: http://www.gutenberg.org/ebooks/27856
